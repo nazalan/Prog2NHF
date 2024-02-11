@@ -1,4 +1,4 @@
-# Programozás alapjai 2. Nagyháfi feladat
+# Programozás alapjai 2. Nagyházi feladat
 ## 1. Feladat 
 Töltött részecskék
 Készítsen objektummodellt töltött részecskék kölcsönhatásának modellezésére! Ezt követően 
